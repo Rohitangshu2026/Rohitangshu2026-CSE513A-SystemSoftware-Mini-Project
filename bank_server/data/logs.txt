@@ -1,0 +1,80 @@
+Admin added user: Rohit (employee)
+Admin added user: Ayushi (manager)
+Admin added user: Rahul (employee)
+Admin deleted user: Rahul
+Admin added user: Rahul (employee)
+Admin added user: Raghav (customer)
+Admin deleted user: Rohit
+Admin added user: Rohit (customer)
+Admin modified user: Ayushi → Ayushi | role: employee → employee
+Admin modified user: Rahul → Rahul | role: employee → employee
+Admin modified user: Rahul → Rahul | role: employee → employee
+Admin modified user: Rahul → Rahul | role: employee → employee
+Admin modified user: Rahul → Rahul | Role: employee → employee
+Admin modified user: Rahul → Rahul | Role: employee → manager
+Admin modified user: Rahul → Rahul | Role: manager → customer
+Admin modified user: Rahul → Rahul | Role: customer → manager
+Admin modified user: Rahul → Rahul | Role: customer → customer
+Admin modified user: Rahul → Rahul | Role: customer → employee
+Admin modified user: Rahul → Rahul | Role: employee → customer
+Admin modified user: Rahul → Rahul | Role: customer → customer
+Admin modified user: Rahul → Rahul | Role: customer → customer
+Admin modified user: Rahul → Rahul | Role: employee → customer
+Modified user: Rahul → Raahul (password updated)
+Modified user: Rahul → Raahul (password updated)
+Modified user: Rahul → Raahul (password updated)
+Modified user: Ayushi → Ayushi (password updated)
+Modified user: Raahul → Rahul (password updated)
+Role changed: Helen (employee → manager)
+Modified user: Prins → Prince (password updated)
+Role changed: Prince (employee → manager)
+Modified user: Rahul → Raahul (password updated)
+Role changed: Raahul (employee → manager)
+Modified user: Raahul → Rahul (password updated)
+Role changed: Rahul (manager → employee)
+Modified user: Snehal → Sneha (password updated)
+Role changed: Sneha (employee → manager)
+Modified user: Sneha → Sneha (password updated)
+Modified user: Rahul → Raahul (password updated)
+Modified user: Rahul → Rahul (password updated)
+Modified user: Sneha → Sneha (password updated)
+Modified user: Sneha → Sneha (password updated)
+Modified user: Sneha → Snehal (password updated)
+Role changed: Snehal (manager → employee)
+Modified user: Rahul → Raahul (password updated)
+Modified user: Raahul → Rahul (password updated)
+Role changed: Rahul (employee → manager)
+Modified user: Snehal → Sneha (password updated)
+Role changed: Sneha (employee → manager)
+Role changed: Sneha (manager → employee)
+Role changed: Rahul (manager → employee)
+Modified user: Rahul → Raahul (password updated)
+Modified user: Raahul → Rahul (password updated)
+Role changed: Rahul (employee → manager)
+Role changed: Rahul (manager → employee)
+Role changed: Sneha (employee → manager)
+Modified user: Rahul → Rahul (password updated)
+Role changed: Rahul (employee → manager)
+Role changed: Sneha (manager → employee)
+Modified user: Ayushi → Ayushi (password updated)
+Modified user: Ayushi → Ayushi (password updated)
+Role changed: Ayushi (manager → employee)
+Role changed: Ayushi (manager → employee)
+Modified user: Ayushi → Ayushi
+Modified user: Ayushi → Ayushi
+Modified user: Soham → Soham
+Modified user: Ayushi → Shrishti
+Modified user: Shrishti → Ayushi
+Role changed: Ayushi (manager → employee)
+Role changed: Ayushi (employee → manager)
+Modified user: Rahul → Rahul
+Role changed: Rahul (employee → manager)
+Role changed: Ayushi (manager → employee)
+Role changed: Ayushi (employee → manager)
+Modified user: Harry → Hurry
+Modified user: Rahul → Rahul
+Role changed: Sashank (manager → employee)
+Role changed: Ayushi (manager → employee)
+Role changed: Ayushi (employee → manager)
+Role changed: Prins (employee → manager)
+Role changed: Prins (manager → employee)
